@@ -9,8 +9,8 @@ file_type_choice = 0
 popup_msg = "hello there"
 full_filename = ""
 
-# Debug Flag
-debug = True
+# Debug Flag (True/False)
+debug = False
 
 # supporting functions
 def create_python_file(fname, message,put_hostname):
