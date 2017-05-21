@@ -6,6 +6,21 @@ When doing pen testing, we sometime needs POC executable file for testing such a
 2. what type of custom popup message to show when get executed
 3. what other victim machine information to be put inside the pop up box
 
+Example
+=======
+
+Choose executable file feature to be created
+
+![Hello](https://github.com/bayinmin/BYResources/blob/master/BYPopupManager/pic_evil_py.PNG)
+
+File will be created within same folder
+
+![Hello](https://github.com/bayinmin/BYResources/blob/master/BYPopupManager/pic_evil_created.PNG)
+
+The executing result of created file.
+
+![Hello](https://github.com/bayinmin/BYResources/blob/master/BYPopupManager/pic_evil_popup.PNG)
+
 Usage
 =====
 1. Open command prompt
